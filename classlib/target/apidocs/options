@@ -1,0 +1,25 @@
+-classpath
+'C:/Users/Kyra Consulting/.m2/repository/joda-time/joda-time/2.7/joda-time-2.7.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-interop/0.6.1/teavm-interop-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-metaprogramming-impl/0.6.1/teavm-metaprogramming-impl-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-jso-apis/0.6.1/teavm-jso-apis-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar;C:/Users/Kyra Consulting/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-jso/0.6.1/teavm-jso-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-jso-impl/0.6.1/teavm-jso-impl-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-metaprogramming-api/0.6.1/teavm-metaprogramming-api-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/ow2/asm/asm-analysis/7.1/asm-analysis-7.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/ow2/asm/asm-tree/7.1/asm-tree-7.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-platform/0.6.1/teavm-platform-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/org/teavm/teavm-core/0.6.1/teavm-core-0.6.1.jar;C:/Users/Kyra Consulting/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/Kyra Consulting/.m2/repository/org/ow2/asm/asm-util/7.1/asm-util-7.1.jar;C:/Users/Kyra Consulting/.m2/repository/com/jcraft/jzlib/1.1.3/jzlib-1.1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'D:/Java/git/core-web-widget/teavvm/classlib/src/main/java;D:/Java/git/core-web-widget/teavvm/classlib/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Java/git/core-web-widget/teavvm/classlib/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TeaVM Java class library 0.6.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Java/git/core-web-widget/teavvm/classlib/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'TeaVM Java class library 0.6.1 API'
